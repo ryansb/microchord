@@ -1,0 +1,9 @@
+#define CHORD_E 8
+#define CHORD_T 16
+#define CHORD_A 24
+#define CHORD_O 32
+#define CHORD_I 40
+#define CHORD_N 48
+#define CHORD_S 56
+#define CHORD_H 64
+#define CHORD_R 72
