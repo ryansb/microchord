@@ -1,5 +1,5 @@
 microchord
-###
+===
 
 Microchord is different. It's a [chorded keyboard][1] inspired by Engelbart's
 [microwriter][2]. Unshackle yourself from the traditional typewriter keyboard.
@@ -24,3 +24,10 @@ easily available hardware. When I have them, I will make available designs for
 > the design of human-computer interfaces.
 Thierry Bardini, Bootstrapping: Douglas Engelbart, Coevolution, and the Origins
 of Personal Computing. (p. 215.)
+
+The inspiration for this was an article on [Engelbart's Violin][4] and decided
+I was willing to take the time to build and learn a user interface that was
+worth learning, like a brush or fountain pen. Not the chalk-bar of the
+typewriter keyboard.
+
+[4]: (http://eclipse.sys-con.com/node/536976)
