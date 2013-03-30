@@ -114,3 +114,4 @@ if not dup:
         chord_map.write("/* Left hand map */\n")
         chord_map.writelines(["#define CHORD_%s %d\n" % (k, v) for k, v in
                               sorted(l_hand.items())])
+        print "Successfully built keymap"
