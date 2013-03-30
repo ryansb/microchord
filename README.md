@@ -27,7 +27,9 @@ of Personal Computing. (p. 215.)
 
 The inspiration for this was an article on [Engelbart's Violin][4] and decided
 I was willing to take the time to build and learn a user interface that was
-worth learning, like a brush or fountain pen. Not the chalk-bar of the
+worth learning, like a brush or fountain pen. Not the sidewalk chalk of the
 typewriter keyboard.
+
+There is a place in the world for violins, however small it is.
 
 [4]: (http://eclipse.sys-con.com/node/536976)
