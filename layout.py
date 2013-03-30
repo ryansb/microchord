@@ -1,4 +1,4 @@
-symbols = {
+r_hand = {
     #         mrogimrp
     1:      0b10000001,
     2:      0b10000010,
@@ -40,7 +40,7 @@ symbols = {
 }
 
 
-letters = {
+l_hand = {
     #          mprmigor
     "e":     0b00001000,
     "t":     0b00010000,
@@ -90,12 +90,10 @@ letters = {
     "end":   0b00111001,
 }
 
-for k, v in symbols.items():
-    if symbols.values().count(v) > 1:
-        if v != 0:
-            print "Symbols layout conflict on %s with value %s" % (k, v)
+for k, v in r_hand.items():
+    if r_hand.values().count(v) > 1:
+        print "Symbols layout conflict on %s with value %s" % (k, v)
 
-for k, v in letters.items():
-    if letters.values().count(v) > 1:
-        if v != 0:
-            print "Letter conflict on %s with value %s" % (k, v)
+for k, v in l_hand.items():
+    if l_hand.values().count(v) > 1:
+        print "Letter conflict on %s with value %s" % (k, v)
