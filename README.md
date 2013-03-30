@@ -22,8 +22,9 @@ easily available hardware. When I have them, I will make available designs for
 > worse, was trying to make a violin,” “most people don’t want to learn the
 > violin.” User-friendliness, not coevolutionary learning, became the norm in
 > the design of human-computer interfaces.
-Thierry Bardini, Bootstrapping: Douglas Engelbart, Coevolution, and the Origins
-of Personal Computing. (p. 215.)
+
+Thierry Bardini, Bootstrapping: Douglas Engelbart, Coevolution, and the
+Origins of Personal Computing. (p. 215.)
 
 The inspiration for this was an article on [Engelbart's Violin][4] and decided
 I was willing to take the time to build and learn a user interface that was
