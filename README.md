@@ -28,7 +28,7 @@ typewriter keyboard.
 
 There is a place in the world for violins, however small it is.
 
-[1]: (http://en.wikipedia.org/wiki/Chorded_keyboard)
-[2]: (http://en.wikipedia.org/wiki/Microwriter)
-[3]: (https://www.pjrc.com/store/teensy.html)
-[4]: (http://eclipse.sys-con.com/node/536976)
+[1]: http://en.wikipedia.org/wiki/Chorded_keyboard
+[2]: http://en.wikipedia.org/wiki/Microwriter
+[3]: https://www.pjrc.com/store/teensy.html
+[4]: http://eclipse.sys-con.com/node/536976
